@@ -22,6 +22,16 @@ Ghoです。
 
 * 秋：紅葉
 
+＊こんな感じです(^^♪(それぞれ上から順にhigh, medium, lowの量です)
+
+![winter](https://user-images.githubusercontent.com/71816344/105634387-15000300-5ea1-11eb-93fb-b5df9a778562.png)
+
+![spring](https://user-images.githubusercontent.com/71816344/105634398-1e896b00-5ea1-11eb-821e-539b28098612.png)
+
+![summer](https://user-images.githubusercontent.com/71816344/105634407-29dc9680-5ea1-11eb-844e-4190fb3b4736.png)
+
+![autumn](https://user-images.githubusercontent.com/71816344/105634411-2c3ef080-5ea1-11eb-9b48-a33656eed098.png)
+
 ### 使い方
 
 #### 1. ダウンロードした後Fallフォルダを使用したいhtmlファイルと同じ階層に配置

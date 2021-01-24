@@ -6,6 +6,8 @@ Hi($・・)/~~~
 
 Ghoです。
 
+![Gho](https://user-images.githubusercontent.com/71816344/105633544-85f0ec00-5e9c-11eb-9c42-4b1fb97c4bac.png)
+
 今回はJavascriptのモジュール?的なものを作ってみました。
 
 これは、「指定する要素に雪など(*1)を降らせることが出来る」といった感じのものです。

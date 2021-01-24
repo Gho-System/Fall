@@ -24,6 +24,8 @@ Ghoです。
 
 #### 1. ダウンロードした後Fallフォルダを使用したいhtmlファイルと同じ階層に配置
 
+＊フォルダ名がFall-0.0.1となっている場合はFallに直してください。
+
 #### 2. htmlに以下を記述
 
 `<script src="Fall/main.js" type="text/javascript"></script>`
